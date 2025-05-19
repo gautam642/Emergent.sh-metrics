@@ -13,6 +13,7 @@ This repository demonstrates the end-to-end approach used to showcase the Emerge
       - [View Dashboard](https://public.tableau.com/views/Book1_17476387685290/Emergent_shmetricsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
       - Dashboard Preview:
         ![Emergent.sh Metrics Dashboard](images/emergent-dashboard.png)
+- Youtube link: https://www.youtube.com/watch?v=wBZD-zmXGlQ
 - Virtual environment (optional but recommended)
 
 ---
