@@ -1,6 +1,0 @@
-pandas
-numpy
-google-generativeai
-ratelimit
-rapidfuzz
-python-dotenv
