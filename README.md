@@ -9,7 +9,10 @@ This repository demonstrates the end-to-end approach used to showcase the Emerge
 - Python 3.8+
 - Google API Key with access to Gemini (via google-generativeai)
     [check gemini api website for per model rate-limits]
-- Tableau
+- Tableau Public
+      - [View Dashboard](https://public.tableau.com/views/Book1_17476387685290/Emergent_shmetricsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+      - Dashboard Preview:
+        ![Emergent.sh Metrics Dashboard](images/emergent-dashboard.png)
 - Virtual environment (optional but recommended)
 
 ---
